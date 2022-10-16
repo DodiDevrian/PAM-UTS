@@ -4,12 +4,14 @@ Nama Aplikasi : Aplikasi Pengingat Waktu Shalat
 
 Identitas Diri
 
-Nama : Dodi Devrian Andrianto
-NIM : 119140023
-Kelas : RB
+# Nama : Dodi Devrian Andrianto
+
+# NIM : 119140023
+
+# Kelas : RB
 
 Deskripsi Aplikasi :
-Aplikasi ini dibuat untuk memenuhi tugas individu 4 matakuliah pengembangan aplikasi mobile, aplikasi ini memberi informasi tentang waktu shalat 5 waktu dan ketika sudah masuk waktu shalat maka akan ada notifikasi sebagai pengingat waktu shalat.
+Aplikasi ini dibuat untuk memenuhi Ujuan Tengah Semester (UTS) matakuliah pengembangan aplikasi mobile, aplikasi ini memberi informasi tentang waktu shalat 5 waktu dan ketika sudah masuk waktu shalat maka akan ada notifikasi sebagai pengingat waktu shalat.
 
 Daftar Package yang digunakan antara lain,
 
