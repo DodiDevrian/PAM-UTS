@@ -1,17 +1,18 @@
-# Tugas-Individu-4
+# Tugas Ujuan Tengah Semester PAM
 
 Nama Aplikasi : Aplikasi Pengingat Waktu Shalat
 
 Identitas Diri
 
-Nama : Makruf Alkarkhi
-NIM : 119140075
-Kelas : RA
+Nama : Dodi Devrian Andrianto
+NIM : 119140023
+Kelas : RB
 
 Deskripsi Aplikasi :
 Aplikasi ini dibuat untuk memenuhi tugas individu 4 matakuliah pengembangan aplikasi mobile, aplikasi ini memberi informasi tentang waktu shalat 5 waktu dan ketika sudah masuk waktu shalat maka akan ada notifikasi sebagai pengingat waktu shalat.
 
 Daftar Package yang digunakan antara lain,
+
 1. "expo-notifications": "~0.14.0",
 2. "expo-status-bar": "~1.2.0",
 3. "moment": "^2.29.2",
@@ -22,7 +23,7 @@ Daftar Package yang digunakan antara lain,
 8. "react-native-web": "0.17.1",
 
 Cara Menginstall Aplikasi :
-1. Download aplikasi pada link berikut https://drive.google.com/file/d/1dSQDrNYljZPW4dsGvSY3uuDW-dsgamhn/view?usp=sharing
+
+1. Download aplikasi pada link berikut https://drive.google.com/file/d/1fbroj6OX6hXmmI_OkrJaYlbN3bZmALEV/view?usp=sharing
 2. Install aplikasi yang sudah didownload pada smartphone android
 3. Jalankan aplikasi
-
